@@ -1,6 +1,6 @@
 # Analysis of Yellow Trip Data for February 2016 Using Apache Spark
 
-## Overview
+## Project Overview
 1. This project aims to analyze the Yellow Trip Data for the month of February 2016 using Apache Spark. The Yellow Trip Data is a dataset containing information about taxi trips in New York City. Additionally, a graphical user interface (GUI) has been developed to display the analysis results and plots.
 2. The analysis is carried out using Apache Spark, a powerful distributed computing framework. Spark allows for efficient processing of large-scale datasets, enabling us to extract meaningful insights and perform various calculations on the Yellow Trip data.
 3. To enhance the user experience and facilitate data visualization, a GUI has been developed. The GUI provides an intuitive interface to interact with the analysis results and view plots generated from the data.
