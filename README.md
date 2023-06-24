@@ -16,7 +16,7 @@
 
 ## Dataset Description
 The dataset used in this analysis is the Yellow Trip Data for February 2016. It includes details about each taxi trip, such as pickup and drop-off locations, trip duration, passenger count, and more. The dataset is available in CSV format and will be processed using Apache Spark to gain insights and perform various analyses.
-<b>Source <a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml"> Click here</a></B>
+<b>Source: <a href="http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml"> Click here</a></B>
 
 ## Analysed Stats:
 1. The longest trip duration, shortest trip Duration, and average trip duration.
