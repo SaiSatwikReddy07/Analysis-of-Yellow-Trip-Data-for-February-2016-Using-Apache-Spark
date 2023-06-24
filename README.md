@@ -35,6 +35,8 @@ The dataset used in this analysis is the Yellow Trip Data for February 2016. It 
 ## Before you run the code
 Enter the directory of the dataset (the csv file) in the file_path variable before you run the code.
 
+## GUI
+![image](https://github.com/SaiSatwikReddy07/Analysis-of-Yellow-Trip-Data-for-February-2016-Using-Apache-Spark/assets/109800395/a38afd02-29be-4c13-9483-ee17a18560c2)
 
 
 
